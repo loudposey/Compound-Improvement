@@ -1,3 +1,16 @@
+## What is the New Method?
+
+1. Empirical - results count.
+2. Iterative - there will be unsuccessful attempts, these are fuel for the fire!
+3. Humane - Sustainable pace, care compassion, and respect for the people involved - customers, team members and stakeholders.
+4. Identify and practice First Principles - Axioms and Rules form the guardrails, wide latitude within them.
+5. Learn, Educate, Practice - 'If I knew better, I'd do better', writ large. 
+
+### PROLOGUE
+   This mess started in the US Army, Basic Training, at Fort Leonard Wood, Missouri. As raw recruits, we were assigned to squads with a squad leader. Some squad leaders thrived, most failed, some spectacularly. I wondered 'Why are some successful and some not?' and began to try to take notice of the possible contributing factors. Some were loud, some quiet. Some gave clear orders, some gave direction, and some asked for help. Some took the credit for what was accomplished, others pointed to their squad. Some took the blame for what failed, others pointed to their squad... Very strange. 
+   
+   Today, decades later, I still recall the confusion caused by the myriad possible causes and effects. Early on, many effects seemed random. As I learned a bit, the effects became more predictable.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/loudposey/compound-improvement/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
