@@ -8,6 +8,13 @@
 
 =========================================
 
+## Rules of the Road
+- There are no public comments.
+- If you'd like to address the author, please send email to compound <dot> improvement <dot> comments <@> gmail <dot> com
+- I may respond to comments - we'll see how it goes. 
+   
+=========================================
+
 ### OBJECTIVE (1) 
 
    I've worked most of my life in software development, so it's the idiom I know best. The objective, or problem statement, has changed little over the decades. 'When will it be done?' 'How much will it cost?' 'What should we do first?' 'What will happen if we do X, instead of Y?'
