@@ -14,6 +14,8 @@
 - I may respond to comments - we'll see how it goes. 
    
 =========================================
+## Newest post is on top, and is numbered.
+=========================================
 
 ### OBJECTIVE (1) 
 
