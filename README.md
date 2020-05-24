@@ -10,7 +10,7 @@
 
 ## Rules of the Road
 - There are no public comments.
-- If you'd like to address the author, please send email to compound (dot) improvement (dot) comments (@) gmail (dot) com
+- If you'd like to address the author, please send email to 
 - I may respond to comments - we'll see how it goes. 
    
 =========================================
