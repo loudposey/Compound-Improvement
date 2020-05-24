@@ -38,9 +38,9 @@
    Predictability, or estimation, prediction, fortune telling, or forecasting - if only we could plan better! The objective of every key stakeholder (the person who pays the bills, or is accountable for the paying of the bills) is to reduce the seemingly random chaos they experience in software development. Everything takes longer, costs more, works differently, has unforeseen impacts and surprises. How does anyone have the nerve to call this 'engineering'? 
    
    Let's start with three objectives, for now.
-1. Understand predictability, a bit.
-2. Understand management, a bit. 
-3. Understand software engineering/development, a bit.
+1. Understand management, a bit. 
+2. Understand software engineering/development, a bit.
+3. Understand predictability, a bit.
 
 (Dang, I'm five bits short!)
 (If you don't have a sense of humor, byte me!)
