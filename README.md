@@ -11,7 +11,7 @@
 ## Rules of the Road
 - There are no public comments.
 - If you'd like to address the author, please send email to compound (dot) improvement (dot) comments (@) gmail (dot) com
-- I may respond to comments - we'll see how it goes. 
+- There may be a mailbag post to respond to comments.  
 - Some day there may be a digest version, or notification of new posts. Interested? Please let me know.
    
 =========================================
@@ -48,7 +48,7 @@ D) To not get fired!   Well, we've all been here, haven't we? But this is not 
    
    I can't overstate this one, as it's truly game-changing. If one wants to be a good Manager (AT ANY LEVEL) one must be able to identify, persuade, guide, motivate, entice, and otherwise inveigle talented people to sign on to your rowboat (or yacht, or schooner, or battleship) and not only do the things they already know, but to learn new things, teach others the things they know, inspire each other to learn things no one knows how to do, and soldier on when no one knows how to do anything. 
    
-   The rule in my head when rolling teams under this rule was simple, one I'd learned from an NCO - 'Take care of your troops, and your troops will take care of you.' 
+   The rule in my head when rolling teams under this rule was simple, one I'd learned from an grizzled sergeant - 'Take care of your troops, and your troops will take care of you.' 
    
    When I began to assemble teams, I looked for people who showed the behaviors I valued. I trusted them, gave them all kinds of latitude, and hoped for the best - and it worked. And so the First Principle of the New Method was born - 'Hire Well.'
    
@@ -58,21 +58,21 @@ D) To not get fired!   Well, we've all been here, haven't we? But this is not 
 
 ### Management Observations, pt 1 (2)
 
-   When I got my first job in software, the first thing I noticed was that management was not good. They were nice enough people, but they were not super skilled, or intelligent, and they didn't seem to know a lot about software development. Or Computer Information Science, as my college described it. 'Science' was distinctly a misnomer, unfortunately, as it was a pretty chaotic field at the time!  
+   When I got my first job in software, the first thing I noticed was that management was not good. They were nice enough people, but they were not super effective. Several didn't seem to know a lot about software development.  
    
    When I realized, a few years later, that I was likely to get a job as a Manager myself, I had to do some hard thinking. What the heck did I know about being a manager? 
    
-1. Most managers were awful - so if I didn't suck terribly, I'd be considered at least average!
-2. Most managers seemed oblivious - so if I at least paid attention, I might suck less!
+1. Many tech managers were awful - so if I didn't suck terribly, I'd be considered at least average!
+2. Many managers seemed uninterested in their staff - so if I at least paid attention, I might do better!
 3. So much of what Scott Adams/Dilbert was printing every day was true - so if I just did better than the PHB, I'd be in the top half of all managers! 
 
-   I wish I could say that I was wrong about any of that, but I wasn't. And it's not that different today, unfortunately. The bar for managers was low then, and it's low now. There are a lot of reasons for that, and none of those reasons involve lack of intelligence, or sloth, or malevolence, so we'll talk more about how a manager can be good (or great!) later. In the meantime, if you're a manager, and you're not sure if you're very good, you're in the right place. 
+   I wish I could say that I was wrong about any of that, but I wasn't. And it's not that different today, unfortunately. The way technical managers are selected, trained and mentored does not seem to have improved. On the other hand, I've made so many mistakes and had to learn from them, that I've come to realize the power of improvement, and especially Compound Improvement. If you're a manager, looking to become a manager, or are observing managers and you're interested in improvement, you're in the right place. 
    
 =========================================
 
 ### OBJECTIVE OF THIS BLOG (1) 
 
-   I've worked most of my life in software development, so it's the idiom I know best. The objective, or problem statement, has changed little over the decades. 'When will it be done?' 'How much will it cost?' 'What should we do first?' 'What will happen if we do X, instead of Y?'
+   I've worked most of my life in software development, so it's the field I know best. The objective, or problem statement, has changed little over the decades. 'When will it be done?' 'How much will it cost?' 'What should we do first?' 'What will happen if we do X, instead of Y?'
    
    Predictability, or estimation, prediction, fortune telling, or forecasting - if only we could plan better! The objective of every key stakeholder (the person who pays the bills, or is accountable for the paying of the bills) is to reduce the seemingly random chaos they experience in software development. Everything takes longer, costs more, works differently, has unforeseen impacts and surprises. How does anyone have the nerve to call this 'engineering'? 
    
