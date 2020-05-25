@@ -12,9 +12,48 @@
 - There are no public comments.
 - If you'd like to address the author, please send email to compound (dot) improvement (dot) comments (@) gmail (dot) com
 - I may respond to comments - we'll see how it goes. 
+- Some day there may be a digest version, or notification of new posts. Interested? Please let me know.
    
 =========================================
 ## Newest post is on top, and is numbered.
+=========================================
+
+### Management Observations, pt 2 (3)
+
+   What is the first thing any Manager should know and understand?  (Long pause for effect) 
+   
+   Seriously, stop reading and ask yourself - what is the FIRST job of a Manager? What should they always be working on, trying to improve, practicing to gain proficiency and understanding?
+   
+   Please feel free to write down your answer at this time. There will be a quiz. This is the 'Pre-Test'. 
+   
+...
+
+   Okay, now that you've got your answer down, let's try on a few disasters.
+   
+The FIRST job of a Manager is:
+
+A) To please my boss!   Ahh, this poor sod took the PHB pill. This is a path of misery. You'll be miserable, your staff will be miserable, and your boss will be mostly miserable. If your boss is competent, you'll be done as a manager, but... That still gives you a 50/50 shot.
+
+B) To deliver on time!   Hmm - an urgency to deliver value is a good indicator, but this is not the first job of a Manager. For example, any development team that had NO manager would have the same goal...
+
+C) To get promoted!   Mr. Machiavelli,  please pick up line 2. While you might get promoted, you'll probably be found out, and treated as well as you've treated your employees. But perhaps not (see the segments about Survivorship Bias, and Clustering of Competencies).
+
+D) To not get fired!   Well, we've all been here, haven't we? But this is not really an objective one can navigate by, as the winds change too frequently. Seriously, the course changes required for this objective are neck-snapping, and will leave one managing an empty boat in no time. 
+
+...
+
+   What is the FIRST job of a Manager?    For many years, my answer to this question was: 'To hire well.' 
+   
+   One thing I learned early was that good hiring managers get ahead. Their team has more skills, talent, expertise, motivation, spirit, energy, etc., so they find a way to win. It was that way in pickup basketball, and it's that way in every corporation. If you can identify talented people, and persuade them to join you, your chances are vastly improved. 
+   
+   I can't overstate this one, as it's truly game-changing. If one wants to be a good Manager (AT ANY LEVEL) one must be able to identify, persuade, guide, motivate, entice, and otherwise inveigle talented people to sign on to your rowboat (or yacht, or schooner, or battleship) and not only do the things they already know, but to learn new things, teach others the things they know, inspire each other to learn things no one knows how to do, and soldier on when no one knows how to do anything. 
+   
+   The rule in my head when rolling teams under this rule was simple, one I'd learned from an NCO - 'Take care of your troops, and your troops will take care of you.' 
+   
+   When I began to assemble teams, I looked for people who showed the behaviors I valued. I trusted them, gave them all kinds of latitude, and hoped for the best - and it worked. And so the First Principle of the New Method was born - 'Hire Well.'
+   
+   After some years, it came clear that there was a more important FIRST Principle...
+   
 =========================================
 
 ### Management Observations, pt 1 (2)
