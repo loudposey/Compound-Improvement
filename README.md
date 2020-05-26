@@ -14,6 +14,8 @@
 - There may be a mailbag post to respond to comments.  
 - Some day there may be a digest version, or notification of new posts. Interested? Please let me know.
    
+<http://github.com/loudposey/Compound-Improvement>
+
 =========================================
 ## Newest post is on top, and is numbered.
 =========================================
