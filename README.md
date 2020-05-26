@@ -8,13 +8,8 @@
 
 =========================================
 
-## Rules of the Road
-- There are no public comments.
-- If you'd like to address the author, please send email to compound (dot) improvement (dot) comments (@) gmail (dot) com
-- There may be a mailbag post to respond to comments.  
-- Some day there may be a digest version, or notification of new posts. Interested? Please let me know.
-   
- [Introduction to Compound Improvement](https://loudposey.github.io/Compound-Improvement/Introduction.html "Introduction")
+ [Introduction to Compound Improvement](https://loudposey.github.io/Compound-Improvement/Introduction.html "Introduction")   
+ [Rules of the Road](https://loudposey.github.io/Compound-Improvement/Rules.html "Rules of the Road")
 
 =========================================
 ## Newest post is on top, and is numbered.
