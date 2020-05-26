@@ -1,4 +1,4 @@
-## New Intro coming
+This blog is about technical leadership and management, and is based on decades of experience. Becoming a manager hard, and managing technical work is harder yet. Managing managers, or directors, is incredibly difficult. There are few good resources available, few mentors, and the training I've seen has been very limited. Writing about advanced software development methods is a challenge that exceeds my abilities, not because I don't think I know a few useful things, but because it calls for MANY assumptions about what the audience might know or not know. I'm going to cover some beginning topics, some intermediate topics, and some fun stuff, too. The idea is to present content and perspective that you might find interesting if you're a manager, want to become a manager, know a manager, or work for a manager. (I like a challenge!) 
 
 =========================================
 
