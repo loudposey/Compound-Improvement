@@ -1,15 +1,11 @@
-## What is the New Method?
-
-1. Empirical - Results count. We experiment to learn new facts.
-2. Iterative - There will be unsuccessful attempts, these are fuel for the fire!
-3. Humane - Sustainable pace, care, compassion, and respect for the people involved - customers, team members and stakeholders.
-4. Identify and practice First Principles - Axioms and Rules form the guardrails, with wide latitude to explore.
-5. Learn, Educate, Practice - 'If I knew better, I'd do better', writ large. 
+## New Intro coming
 
 =========================================
 
  [Introduction to Compound Improvement](https://loudposey.github.io/Compound-Improvement/Introduction.html "Introduction") 
- [What is the New Method?](https://loudposey.github.io/Compound-Improvement/NewMethod.html "What is the New Method?")   
+ 
+ [What is the New Method?](https://loudposey.github.io/Compound-Improvement/NewMethod.html "What is the New Method?")
+ 
  [Rules of the Road](https://loudposey.github.io/Compound-Improvement/Rules.html "Rules of the Road")
 
 =========================================
