@@ -14,7 +14,7 @@
 - There may be a mailbag post to respond to comments.  
 - Some day there may be a digest version, or notification of new posts. Interested? Please let me know.
    
- [Introduction to Compound Improvement](http://github.io/loudposey/Compound-Improvement/Introduction "Introduction")
+ [Introduction to Compound Improvement](http://google.com "Introduction")
 
 =========================================
 ## Newest post is on top, and is numbered.
