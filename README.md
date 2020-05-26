@@ -8,7 +8,8 @@
 
 =========================================
 
- [Introduction to Compound Improvement](https://loudposey.github.io/Compound-Improvement/Introduction.html "Introduction")   
+ [Introduction to Compound Improvement](https://loudposey.github.io/Compound-Improvement/Introduction.html "Introduction") 
+ [What is the New Method?](https://loudposey.github.io/Compound-Improvement/NewMethod.html "What is the New Method?")   
  [Rules of the Road](https://loudposey.github.io/Compound-Improvement/Rules.html "Rules of the Road")
 
 =========================================
