@@ -12,9 +12,38 @@ This blog is about technical leadership and management, and is based on decades 
 ## Newest post is on top, and is numbered.
 =========================================
 
+### Introduction to Time (4)
+
+After I got out of the Army, I decided to take some college courses toward finishing my degree. I hadn't had trouble with any of the courses I'd taken in Germany, so I signed up for a full load. I also had to work, because my GI Bill benefits were not very good - certainly not enough to live on. Easy fix, I got a job as a graveyard computer operator, and went to class during the day. Yes, I was burning the candle at both ends. I was able to keep up with the course work, but only just barely. There was little time to do the research or thought or writing for the class projects, and I kept kicking the can down the road. Even after the first quarter, I was still looking at the calendar and counting on 8 weeks to finish (well, start AND finish!) those projects before the deadline. As the weeks ticked by, and I made little progress, I was still convincing myself that someday soon I'd find the time to really dig in to the projects. Each week the task seemed more daunting. 
+
+   Push came to shove on a Friday, when the instructor reminded us that the semester projects were due to be turned in on Monday. MONDAY??? I'd missed a detail - this class project was due a week earlier than the others! I'd thought all the projects were still a week away, and that I could pound on them this weekend, all next week, and the following weekend, then turn them in. Don't ask me how I thought I'd be studying for finals, and working during the week! 
+   
+   Friday night I went for a long walk, around the lake. I was disappointed and angry at myself. I'd procrastinated before, but never to this extent. It all felt pretty hopeless, honestly. I wondered if I'd be better off withdrawing from the classes than failing them, as I couldn't pass any of them without a decent project. I'd done some work on all of them, but was nowhere near finishing any of them, and the mountain looked really high. 
+   
+   A few years later, I was a programmer, and I had friends on another team that were complaining about their 'death march' project. The project had been planned to take a calendar year, starting in January, and to be done before the Christmas holiday. They'd started late, because the hangover work from the previous year killed a couple weeks in January. A senior programmer got promoted in March, and it took more than a month to replace her - and her replacement needed time to get up to speed, as well as instruction from the other team members. They made good progress for a while, but there was an emergency in July and everyone took at least a week away from their usual work to help out. Some folks had to work on the cleanup, and that took two more weeks. When they got back together and assessed progress against the plan, it was obvious to everyone that they were way behind schedule. In truth, they'd been behind before they started, because between the late start in January, and the early finish for Christmas, they only had 11 months to do a 12 month project - but everyone had been convinced that at some point they'd catch a break and make up for the lost time. Instead, the breaks had gone against them.
+   
+   Around Labor Day, their boss had pulled everyone in to a team meeting and showed them a revised schedule. They were expected to work 10 hour days, instead of 8, and they'd also work Saturdays until the project was delivered. They'd get Thanksgiving Day off, but not Black Friday. They'd get Christmas and New Years Day off, but no extra days. Working 58 hours per week was expected to increase progress by 50%, so they'd get 6 months of planned work done in the remaining 4 months of the calendar year. I'm sure you can see how this project would turn into a death march!
+   
+   It was never clear to me why management thought this was a good plan, but that's not the point of the story. What problems can we see in the death march project and their progress?
+   
+1. The plan, before work ever started, was to do 12 months of work in 11 months. That's not a good plan, because that plan is absolutely counting on catching a couple huge breaks somewhere along the way.
+2. The plan contained no slack for contingencies. Having turnover or an emergency were fairly predictable at that company, but were not accounted for in the planning.
+3. When the required breaks did not materialize, and instead started to run against the team, they kicked the can down the road, and hoped things would get better. 
+
+   As you can see from that list, I'd already been on my first 'death march', just a few years earlier in college... 
+   
+   What I learned from my experience in college, and from observing my friends project, became an axiom called 'All days have 24 hours'. There are no magic days, where you can expect to get a week of work done. A day spent handling an emergency cannot be 'made up' by burning the candle at the other end, AND in the middle. This concept is going to recur often, as it bears on several key aspects of product development (sustainable pace, estimation, prioritization, throughput, predictability and others). 
+   
+   The 'death march' project went about as well as you'd expect. They finished in January, having had a horrible holiday season. Management was briefly happy, as the delivery was close enough to the committed dates to trigger raises and bonuses - for them, not for the team members. The product had a much higher rate of quality issues (bugs, missed functionality, etc.) than we were used to, and their time to fix was terrible, too. About half the team left for new jobs in the months after delivery, 'surprisingly'. The shattered remains of the team were unable to make real progress on a followup delivery, also 'surprisingly' - that led to the manager being let go, and the team being disbanded with the members joining other teams. 
+   
+   Unfortunately, companies don't necessarily learn from their mistakes. If there's a disconnect between the folks making the decisions (leadership) and people doing the work, and the pain is inflicted on the latter, the former may not make the connection between their decisions and the consequences. 
+   
+PS - I wrote the paper due on Monday over the weekend and turned it in. I had four papers left, and only 7 calendar days, so I wrote the first paper in one day (enough to turn in), and studied for finals at work. I did the other papers in two days each, and spent any 'extra' time improving the first one-day project. They were all good enough - but I learned a lot more from the experience than just writing some papers!  
+
+
 ### Management Observations, pt 2 (3)
 
-   What is the first thing any Manager should know and understand?  (Long pause for effect) 
+   What is the first thing any Manager should know and understand?  
    
    Seriously, stop reading and ask yourself - what is the FIRST job of a Manager? What should they always be working on, trying to improve, practicing to gain proficiency and understanding?
    
